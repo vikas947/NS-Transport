@@ -2297,7 +2297,7 @@ Team Area Style
 .single-team-member .team-content h3 {
   margin-bottom: 0;
   color: #ffffff;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .single-team-member .team-content .team-social .control {
@@ -2733,11 +2733,11 @@ Page Title Area Style
 }
 
 .page-title-area.bg-13 {
-  background-image: url(../../assets/img/page-bg/page-bg-3.jpg);
+  background-image: url(../../assets/img/Banner.jpg);
 }
 
 .page-title-area.bg-14 {
-  background-image: url(../../assets/img/page-bg/page-bg-4.jpg);
+  background-image: url(../../assets/img/Banner.jpg);
 }
 
 .page-title-area.bg-15 {
